@@ -1,4 +1,3 @@
-
 # 🚖 Uber Fare Data Analysis (Power BI Project)
 
 **Course**: Introduction to Big Data Analytics (INSY 8413)  
@@ -15,6 +14,7 @@ Analyze Uber ride data to uncover fare patterns, peak hours, and geo distributio
 ## 🧪 Methodology
 
 ### 🔹 1. Data Preparation (Python)
+
 - Loaded raw dataset with Pandas
 - Cleaned nulls, filtered invalid data
 - Generated descriptive stats: mean, median, std, quartiles
@@ -22,6 +22,7 @@ Analyze Uber ride data to uncover fare patterns, peak hours, and geo distributio
 - Saved `uber_enhanced.csv` for Power BI
 
 ### 🔹 2. Power BI Dashboard
+
 - Imported enhanced dataset
 - Built visuals:
   - Histogram & Box plot (fare distribution)
@@ -56,4 +57,3 @@ Analyze Uber ride data to uncover fare patterns, peak hours, and geo distributio
 This project shows how Python + Power BI can turn raw ride data into meaningful insights for operational decisions. The dashboard is dynamic, visual, and easy to understand.
 
 ---
-
