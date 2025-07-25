@@ -2,7 +2,8 @@
 
 **Course**: Introduction to Big Data Analytics (INSY 8413)  
 **Instructor**: Eric Maniraguha  
-**Student**: Honore Munyemana 25594
+**Student**: Honore Munyemana **25594**
+
 **Submission Date**: July 25, 2025
 
 ## 📌 Objective
