@@ -1,9 +1,12 @@
 # 🚖 Uber Fare Data Analysis (Power BI Project)
 
 **Course**: Introduction to Big Data Analytics (INSY 8413)
+
 **Instructor**: Eric Maniraguha
+
 **Student**: Honore Munyemana (**ID: 25594**)
-**Submission Date**: July 25, 2025
+
+**Submission Date**: July 27, 2025
 
 ---
 
